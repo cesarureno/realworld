@@ -46,7 +46,7 @@ RealWorld solves this by allowing you to choose any frontend (React, Angular 2, 
     17: Imba
     18: Crizmas MVC
 -->
-> _Sorted by popularity on Fri Aug 23 2019_
+> _Sorted by popularity on Sun Aug 25 2019_
 
 | 🥇 | 🥈 | 🥉 |
 | :---:         |     :---:      |          :---: |
@@ -118,7 +118,7 @@ Work In Progress:
     34: Feathers
     35: Spincast
 -->
-> _Sorted by popularity on Fri Aug 23 2019_
+> _Sorted by popularity on Sun Aug 25 2019_
 
 | 🥇 | 🥈 | 🥉 |
 | :---:         |     :---:      |          :---: |
@@ -183,7 +183,7 @@ Work In Progress:
   Ranking:
      1: NativeScript (Angular)
 -->
-> _Sorted by popularity on Fri Aug 23 2019_
+> _Sorted by popularity on Sun Aug 25 2019_
 
 | 🥇 | 🥈 | 🥉 |
 | :---:         |     :---:      |          :---: |
